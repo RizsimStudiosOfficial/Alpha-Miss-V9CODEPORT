@@ -6,15 +6,7 @@
     --box-bottom-height-int: 33;
     --box-top-height-pct: calc(var(--box-top-height-int) * 1%);
     --box-bottom-height-pct: calc(var(--box-bottom-height-int) * 1%);
-    --colV1: #5f5f5f;
-    --colV2: #c32d2d;
-    --colV3: #3c646e;
-    --colV4: #ba7b3d;
-    --colV5: #41a032;
-    --colV6: #825fd2;
-    --colV7: #d65a1e;
-    --colV8: #5f7e7b;
-    --colV9: #005cfa;
+    --colV1: #c32d2d;
     --colBck: #121212;
     --col0: #919191;
     --col1: #5f5f5f;
